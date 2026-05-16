@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant App Flutter",
+  "description": "A high-fidelity Flutter food ordering application based on design specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
